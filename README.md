@@ -1,7 +1,9 @@
 Project Title: E-Commerce Shopping Website
 
 Web Technologies used: HTML, CSS, JS, Bootstrap
+
 IDE: VS-Code
+
 Industry: Lifestyle
 
 Problem Statement/Opportunity:
